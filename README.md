@@ -1,5 +1,3 @@
-# Understanding-Thick-vs-Thin-Provisioning-in-VMware-ESXi
-
 # 🖥️ Thick vs Thin Provisioning in VMware ESXi
 
 A simple student-friendly explanation of the differences between **Thick** and **Thin** disk provisioning in VMware ESXi — with visuals, tables, and emoji! 😊
